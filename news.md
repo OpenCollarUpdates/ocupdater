@@ -4,17 +4,13 @@ Hello everybody. The next OpenCollar is finally here.
 
 A few highlights for this release. On the user point of view:
 
-1. The modular updater now has a web interface. To update, do as usual, but
-instead of directly choosing bundles, click the link on the popup and select
-bundles on the web page instead.
-
-2. Dialog button labels are not shortened anymore. Whenever there is one button
+1. Dialog button labels are not shortened anymore. Whenever there is one button
 with a too long label in current dialog, all choices will also appear in the 
 chat console, prefixed by numbers. This means in particular you can now add 
 owners having long names directly from the menu and that you do not need to
 shorten your animation names or #RLV-shared folders names anymore.
 
-3. The #RLV Browsing system is now more complete. For instance it makes it
+2. The #RLV Browsing system is now more complete. For instance it makes it
 possible to choose between adding and replacing folders. You can also un/lock 
 folders. All possible actions on a folder are now located in the "Actions"
 submenu in the menu of that folder. Moreover now 2 icons before each folder
